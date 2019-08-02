@@ -2,6 +2,7 @@ body {
   text-align: center;
   font-family: 'Kanit', sans-serif;
   background-color: #CDD0D1;
+    background-color: #F8F8F8;
   text-align: center;
 }
 
@@ -28,7 +29,7 @@ h1 {
   display: inline-block;
   border: solid 2px;
   border-radius: 5px;
-  background-color: black;
+  background-color: #292A29;
   width: 60%;
   margin-right: auto;
   margin-left: auto;
